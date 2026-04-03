@@ -1,0 +1,28 @@
+{
+  "last_updated": "2026-04-03",
+  "stats": {
+    "all_reports": 2,
+    "bounties_earned": 0,
+    "critical": 0,
+    "high": 1,
+    "medium": 1
+  },
+  "reports": [
+    {
+      "target": "Poe (Quora)",
+      "severity": "High",
+      "type": "Race Condition",
+      "cwe": "CWE-362",
+      "status": "Open",
+      "logo": "poe_logo.svg"
+    },
+    {
+      "target": "Syfe",
+      "severity": "Medium",
+      "type": "Information Exposure",
+      "cwe": "CWE-200",
+      "status": "Duplicate (NP)",
+      "logo": "syfe_logo.svg"
+    }
+  ]
+}
