@@ -27,3 +27,9 @@
 
 ## 📄 Лицензия
 MIT License
+
+## Project Progress
+- [x] Modular Config
+- [x] Logging System
+- [x] Custom Exceptions
+- [ ] Database Integration
