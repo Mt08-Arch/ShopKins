@@ -19,3 +19,6 @@ if __name__ == "__main__":
         asyncio.run(main())
     except KeyboardInterrupt:
         print("Бот выключен")
+# Updated with services initialization
+from services.user_service import UserService
+user_service = UserService()
