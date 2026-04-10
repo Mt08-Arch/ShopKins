@@ -33,3 +33,7 @@ MIT License
 - [x] Logging System
 - [x] Custom Exceptions
 - [ ] Database Integration
+
+## Features
+- Crypto payments (Cryptomus)
+- Modular architecture
