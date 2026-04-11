@@ -22,3 +22,9 @@ if __name__ == "__main__":
 # Updated with services initialization
 from services.user_service import UserService
 user_service = UserService()
+# Registering middlewares and admin routes
+from middlewares.throttling import ThrottlingMiddleware
+from handlers.admin.panel import admin_router
+
+# dp.message.middleware(ThrottlingMiddleware())
+# dp.include_router(admin_router)
