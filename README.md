@@ -37,3 +37,7 @@ MIT License
 ## Features
 - Crypto payments (Cryptomus)
 - Modular architecture
+
+### Security Status
+- Webhook Protection: Enabled
+- Admin Alerts: Active
