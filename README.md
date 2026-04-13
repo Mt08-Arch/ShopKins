@@ -41,3 +41,8 @@ MIT License
 ### Security Status
 - Webhook Protection: Enabled
 - Admin Alerts: Active
+
+### Tech Stack
+- SQLAlchemy (ORM)
+- Pydantic v2
+- Cryptomus API
