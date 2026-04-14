@@ -46,3 +46,8 @@ MIT License
 - SQLAlchemy (ORM)
 - Pydantic v2
 - Cryptomus API
+
+### Tech Stack
+- SQLAlchemy (ORM)
+- Pydantic v2
+- Cryptomus API
