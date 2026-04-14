@@ -12,3 +12,6 @@ class CryptomusClient:
     def check_status(self, payment_id: str):
         # Метод для ручного запроса статуса у API
         pass
+    def check_status(self, payment_id: str):
+        # Метод для ручного запроса статуса у API
+        pass
