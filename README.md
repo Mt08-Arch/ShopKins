@@ -51,3 +51,5 @@ MIT License
 - SQLAlchemy (ORM)
 - Pydantic v2
 - Cryptomus API
+
+**Note: This is a private commercial project.**
