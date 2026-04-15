@@ -28,3 +28,6 @@ from handlers.admin.panel import admin_router
 
 # dp.message.middleware(ThrottlingMiddleware())
 # dp.include_router(admin_router)
+async def on_shutdown():
+    print("Saving data and closing connections...")
+    # close_db()
